@@ -1,4 +1,4 @@
-jsonnanny_documents
+jsonnanny documents
 ===================
 
-JSON Nanny Documents
+jsonnanny documents
